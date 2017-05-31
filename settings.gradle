@@ -1,0 +1,4 @@
+rootProject.name = 'SnowGod'
+include 'GodCodex'
+include 'Godfather'
+

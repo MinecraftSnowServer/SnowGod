@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GodCodex.iml" filepath="$PROJECT_DIR$/.idea/modules/GodCodex.iml" group="GodCodex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GodCodex/GodCodex_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GodCodex/GodCodex_main.iml" group="GodCodex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GodCodex/GodCodex_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GodCodex/GodCodex_test.iml" group="GodCodex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Godfather.iml" filepath="$PROJECT_DIR$/.idea/modules/Godfather.iml" group="Godfather" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Godfather/Godfather_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Godfather/Godfather_main.iml" group="Godfather" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Godfather/Godfather_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Godfather/Godfather_test.iml" group="Godfather" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SnowGod.iml" filepath="$PROJECT_DIR$/.idea/modules/SnowGod.iml" />
+    </modules>
+  </component>
+</project>

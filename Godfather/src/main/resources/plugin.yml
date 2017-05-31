@@ -1,0 +1,6 @@
+name: Godfather
+main: org.snowtec.mine.snowgod.Godfather
+description: Powerful administration and useful commands from SnowGod
+version: 0.0.1
+author:
+  - Davy <me@davy.tw>
